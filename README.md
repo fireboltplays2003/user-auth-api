@@ -11,7 +11,6 @@ Task3/
 │
 ├── app.js                     # Main Express server setup
 ├── dbSingleton.js            # MySQL connection singleton
-├── db_user.sql               # SQL script for creating the user database and table
 ├── routes/
 │   ├── users.js              # User registration route
 │   └── Authentication.js     # Login/authentication route
@@ -36,14 +35,7 @@ Task3/
    npm install
    ```
 
-3. **Create the database**
-   Import the SQL file:
-
-   ```bash
-   mysql -u root -p < db_user.sql
-   ```
-
-4. **Start the server**
+3. **Start the server**
 
    ```bash
    node app.js
