@@ -149,5 +149,3 @@ From `package.json`:
 * **Rula Yosef**
 
 ---
-
-Would you like me to export this into a downloadable `README.md` file?
