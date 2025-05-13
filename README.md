@@ -1,7 +1,3 @@
-Thank you! Here's the **final updated `README.md`** including the programmers' names at the bottom:
-
----
-
 ## 📘 Task3: User Authentication System (Node.js + MySQL)
 
 A basic Node.js Express application that provides user **registration** and **login authentication** using a **MySQL database** and `bcrypt` for password hashing.
